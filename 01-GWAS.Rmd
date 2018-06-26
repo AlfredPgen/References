@@ -1,38 +1,69 @@
 # Genome-wide association study <30>
 Bush, W. S., & Moore, J. H. (2012). Chapter 11: Genome-Wide Association Studies. PLOS Computational Biology, 8(12), e1002822
+
 Visconti, A., Duffy, D. L., Liu, F., Zhu, G., Wu, W., Chen, Y., . . . Falchi, M. (2018). Genome-wide association study in 176,678 Europeans reveals genetic loci for tanning response to sun exposure. Nature Communications, 9(1), 1684
- Guerreiro, R., Ross, O. A., Kun-Rodrigues, C., Hernandez, D. G., Orme, T., Eicher, J. D., . . . Bras, J. (2018). Investigating the genetic architecture of dementia with Lewy bodies: a two-stage genome-wide association study. The Lancet Neurology, 17(1), 64-74
+
+Guerreiro, R., Ross, O. A., Kun-Rodrigues, C., Hernandez, D. G., Orme, T., Eicher, J. D., . . . Bras, J. (2018). Investigating the genetic architecture of dementia with Lewy bodies: a two-stage genome-wide association study. The Lancet Neurology, 17(1), 64-74
 
 Manolio, T. A. (2010). Genomewide Association Studies and Assessment of the Risk of Disease. New England Journal of Medicine, 363(2), 166-176
+
 Huang, J., Sabater-Lleal, M., Asselbergs, F. W., Tregouet, D., Shin, S.-Y., Ding, J., . . . Hamsten, A. (2012). Genome-wide association study for circulating levels of PAI-1 provides novel insights into its regulation. Blood, 120(24), 4873
+
 van Zuydam, N. R., Ahlqvist, E., Sandholm, N., Deshmukh, H., Rayner, N. W., Abdalla, M., . . . McCarthy, M. I. (2018). A Genome-Wide Association Study of Diabetic Kidney Disease in Subjects With Type 2 Diabetes. Diabetes. 
+
 Treutlein, J., Cichon, S., Ridinger, M., & et al. (2009). Genome-wide association study of alcohol dependence. Archives of General Psychiatry, 66(7), 773-784
+
 Fang, C., Ma, Y., Wu, S., Liu, Z., Wang, Z., Yang, R., . . . Tian, Z. (2017). Genome-wide association studies dissect the genetic networks underlying agronomical traits in soybean. Genome Biology, 18(1), 161
 
 Welderufael, B. G., Løvendahl, P., de Koning, D.-J., Janss, L. L. G., & Fikse, W. F. (2018). Genome-Wide Association Study for Susceptibility to and Recoverability From Mastitis in Danish Holstein Cows. Frontiers in Genetics, 9(141)
- Panagiotou, O. A., Willer, C. J., Hirschhorn, J. N., & Ioannidis, J. P. A. (2013). The Power of Meta-Analysis in Genome-Wide Association Studies. Annual Review of Genomics and Human Genetics, 14(1), 441-465
+
+Panagiotou, O. A., Willer, C. J., Hirschhorn, J. N., & Ioannidis, J. P. A. (2013). The Power of Meta-Analysis in Genome-Wide Association Studies. Annual Review of Genomics and Human Genetics, 14(1), 441-465
+
 Siedlinski, M., Cho, M. H., Bakke, P., Gulsvik, A., Lomas, D. A., Anderson, W., . . . Silverman, E. K. (2011). Genome-wide association study of smoking behaviours in patients with COPD. Thorax, 66(10), 894
+
 Grimm, D. G., Roqueiro, D., Salomé, P. A., Kleeberger, S., Greshake, B., Zhu, W., . . . Borgwardt, K. M. (2017). easyGWAS: A Cloud-Based Platform for Comparing the Results of Genome-Wide Association Studies. The Plant Cell, 29(1), 5
+
 Chung, J., Wang, X., Maruyama, T., Ma, Y., Zhang, X., Mez, J., . . . Jun, G. R. (2018). Genome-wide association study of Alzheimer's disease endophenotypes at prediagnosis stages. Alzheimer's & Dementia: The Journal of the Alzheimer's Association, 14(5), 623-633
+
 Wain, L. V., Vaez, A., Jansen, R., Joehanes, R., van der Most, P. J., Erzurumluoglu, A. M., . . . Ehret, G. B. (2017). Novel Blood Pressure Locus and Gene Discovery Using Genome-Wide Association Study and Expression Data Sets From Blood and the Kidney. Hypertension, 70(3), e4
+
 Zheng, X.-M., Gong, T., Ou, H.-L., Xue, D., Qiao, W., Wang, J., . . . Olsen, K. M. (2017). Genome-wide association study of rice grain width variation. Genome, 61(4), 233-240
+
 Molotsi, A. H., Taylor, J. F., Cloete, S. W. P., Muchadeyi, F., Decker, J. E., Sandenbergh, L., & Dzama, K. (2017). Preliminary genome-wide association study for wet-dry phenotype in smallholder ovine populations in South Africa. South African Journal of Animal Science, 47, 327-331
+
 Platt, A., Vilhjálmsson, B. J., & Nordborg, M. (2010). Conditions Under Which Genome-Wide Association Studies Will be Positively Misleading. Genetics, 186(3), 1045
+
 Ross, C. A., & Ross, A. W. (2018). Problems with a recent genome-wide association study in schizophrenia. Psychosis, 10(2), 158-159
+
 Erdmann, J., Kessler, T., Munoz Venegas, L., & Schunkert, H. (2018). A decade of genome-wide association studies for coronary artery disease: the challenges ahead. Cardiovascular Research, cvy084-cvy084
+
 Liu, X., Hong, X., Tsai, H.-J., Mestan, K. K., Shi, M., Kefi, A., . . . Wang, X. (2018). Genome-wide association study of maternal genetic effects and parent-of-origin effects on food allergy. Medicine, 97(9), e0043
+
 Asai, Y., Eslami, A., van Ginkel, C. D., Akhabir, L., Wan, M., Ellis, G., . . . Daley, D. (2018). Genome-wide association study and meta-analysis in multiple populations identifies new loci for peanut allergy and establishes as a genetic risk factor for food allergy. Journal of Allergy and Clinical Immunology, 141(3), 991-1001
+
 Gutierrez, A. P., Bean, T. P., Hooper, C., Stenton, C. A., Sanders, M. B., Paley, R. K., . . . Houston, R. D. (2018). A Genome-Wide Association Study for Host Resistance to Ostreid Herpesvirus in Pacific Oysters. G3: Genes|Genomes|Genetics. 
+
 Collins, A. L., & Sullivan, P. F. (2013). Genome-wide association studies in psychiatry: what have we learned? British Journal of Psychiatry, 202(1), 1-4
+
 McClure, K. A., Gardner, K. M., Douglas, G. M., Song, J., Forney, C. F., DeLong, J., . . . Myles, S. (2018). A Genome-Wide Association Study of Apple Quality and Scab Resistance. The Plant Genome, 11(1)
+
 Wangler, M. F., Hu, Y., & Shulman, J. M. (2017). Drosophila and genome-wide association studies: a review and resource for the functional dissection of human complex traits. Disease Models and Mechanisms, 10(2), 77
+
 Gao, Y., Liu, Z., Faris, J. D., Richards, J., Brueggeman, R. S., Li, X., . . . Friesen, T. L. (2016). Validation of Genome-Wide Association Studies as a Tool to Identify Virulence Factors in Parastagonospora nodorum. Phytopathology, 106(10), 1177-1185
+
 Ahmetov, I. I., Kulemin, N. A., Popov, D. V., Naumov, V. A., Akimov, E. B., Bravy, Y. R., . . . Govorun, V. M. (2014). Genome-wide association study identifies three novel genetic markers associated with elite endurance performance. Biology of Sport, 32(1), 3-9
+
 Martínez, R., Bejarano, D., Gómez, Y., Dasoneville, R., Jiménez, A., Even, G., . . . Mészáros, G. (2017). Genome-wide association study for birth, weaning and yearling weight in Colombian Brahman cattle. Genetics and Molecular Biology, 40, 453-459
+
 Wang, X., Tucker, N. R., Rizki, G., Mills, R., Krijger, P. H. L., de Wit, E., . . . Boyer, L. A. (2016). Discovery and validation of sub-threshold genome-wide association study loci using epigenomic signatures. eLife, 5, e10557
+
  Cheng, Z., Zhou, H., Sherva, R., Farrer, L. A., Kranzler, H. R., & Gelernter, J. Genome-wide Association Study Identifies a Regulatory Variant RGMA Associated With Opioid Dependence in European Americans. Biological Psychiatry
+ 
 Wray, N. R., Ripke, S., Mattheisen, M., Trzaskowski, M., Byrne, E. M., Abdellaoui, A., . . . Sullivan, P. F. (2018). Genome-wide association analyses identify 44 risk variants and refine the genetic architecture of major depression. Nature Genetics, 50(5), 668-681
+
 Hwang, L.-D., Gharahkhani, P., Breslin, P. A. S., Gordon, S. D., Zhu, G., Martin, N. G., . . . Wright, M. J. (2018). Bivariate genome-wide association analysis strengthens the role of bitter receptor clusters on chromosomes 7 and 12 in human bitter taste. bioRxiv
+
 Pasman, J. A., Verweij, K. J. H., Gerring, Z., Stringer, S., Sanchez-Roige, S., Treur, J. L., . . . Vink, J. M. (2018). Genome-wide association analysis of lifetime cannabis use (N=184,765) identifies new risk loci, genetic overlap with mental health, and a causal influence of schizophrenia on cannabis use. bioRxiv
+
 Huang, C., Thompson, P., Wang, Y., Yu, Y., Zhang, J., Kong, D., . . . Zhu, H. (2017). FGWAS: Functional genome wide association analysis. NeuroImage, 159, 107-121
 

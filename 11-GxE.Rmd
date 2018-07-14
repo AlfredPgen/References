@@ -12,7 +12,7 @@
 
 ## Joint tests
 
-## Gene-based interaction tests
+## Set-based interaction tests
 
 Lin X, Lee S, Christiani DC, Lin X (2013) Test for interactions between a genetic marker set and environment in generalized linear models. Biostatistics 14: 667-81
 

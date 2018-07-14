@@ -1,0 +1,37 @@
+# Gene-environment interaction
+
+## Single step methods
+
+### Case-control
+
+### Case-only
+
+### Empirical Bayes and Bayesian Model Averaging
+
+## Multi stage methods
+
+## Joint tests
+
+## Gene-based interaction tests
+
+Lin X, Lee S, Christiani DC, Lin X (2013) Test for interactions between a genetic marker set and environment in generalized linear models. Biostatistics 14: 667-81
+
+Windle M. (2016) Statistical approaches to gene x environment interactions for complex phenotypes
+
+
+
+## Combining multiple environments
+
+## Variance heterogeneity
+
+### Levene's test
+
+### Two-step screening on residual variance heterogeneity
+
+## Conditional quantile regression 
+
+## RELIEF and other machine learning tools
+
+### Multidimensionality reduction
+
+## Meta-analytic GxE approaches

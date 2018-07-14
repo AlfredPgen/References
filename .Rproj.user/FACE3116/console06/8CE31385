@@ -103,4 +103,72 @@ The file will have its original line endings in your working directory.[0K
 [0K[?25h[?25l
 [0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FACE3116/sources/prop/89828E7.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FACE3116/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FACE3116/sources/s-DD824400/CEEF9525-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FACE3116/sources/prop/618E20A7.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FACE3116/sources/s-DD824400/34B07CE7.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FACE3116/sources/s-DD824400/34B07CE7-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git commit -m "gwas refs"[0K[?25h[?25l
+[0K[?25h[master 4e0f061] gwas refs[0K[?25l
+ 12 files changed, 253 insertions(+), 30 deletions(-)[0K
+ rewrite .Rproj.user/FACE3116/console06/INDEX001 (69%)[0K
+ create mode 100644 .Rproj.user/FACE3116/sources/prop/618E20A7[0K
+ create mode 100644 .Rproj.user/FACE3116/sources/s-DD824400/34B07CE7[0K
+ rename 01-Descriptives.Rmd => .Rproj.user/FACE3116/sources/s-DD824400/34B07CE7-contents (93%)[0K
+ delete mode 100644 .Rproj.user/FACE3116/sources/s-DD824400/CEEF9525[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/7A3D8CE9-01-Descriptives/1/FACE3116DD824400/chunks.json[0K
+ create mode 100644 01-GWAS.Rmd[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "gwas refs"[0K[3G[?25h[28G[?25l$ git add .[0K[?25h[?25l$ git commit -m "gwas refs"[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 20, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (16/16), done.[0K
+Writing objects: 100% (20/20), 6.31 KiB | 808.00 KiB/s, done.[0K
+Total 20 (delta 1), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (1/1), completed with 1 local object.[0K[?25l
+[0K[?25hTo https://github.com/lopasy/References.git[0K[?25l
+   e8c9605..4e0f061  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0K]0;:/e/Mybooks/References/References[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+[?25l[1A[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
+[0m$[0K[3G[?25h[0m[0K]0;:/e/Mybooks/References/References[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25herror: open(".Rproj.user/FACE3116/console06/8CE31385"): Permission denied[0K[?25l
+error: unable to index file .Rproj.user/FACE3116/console06/8CE31385[0K
+fatal: updating files failed[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[?25l
+[0K[?25hThere is no tracking information for the current branch.[0K[?25l
+Please specify which branch you want to merge with.[0K
+See git-pull(1) for details.[0K
+[0K
+    git pull <remote> <branch>[0K
+[0K
+If you wish to set tracking information for this branch you can do so with:[0K
+[0K
+    git branch --set-upstream-to=origin/<branch> master[0K
+[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hEverything up-to-date[0K[?25l
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h

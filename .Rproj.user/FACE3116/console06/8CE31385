@@ -202,4 +202,49 @@ Total 15 (delta 4), reused 0 (delta 0)[0K
 [0K[?25h[?25l
 [0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "set-gxe"[0K[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "set-gxe"[0K[?25h[?25l
+[0K[?25h[master 5c95744] set-gxe[0K[?25l
+ 2 files changed, 32 insertions(+), 1 deletion(-)[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "set-gxe"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 7, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (7/7), done.[0K
+Writing objects: 100% (7/7), 1.19 KiB | 405.00 KiB/s, done.[0K
+Total 7 (delta 2), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[0K[?25l
+[0K[?25hTo https://github.com/lopasy/References.git[0K[?25l
+   a4ee95c..5c95744  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l[12A[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
+[0m$ git push origin master[0K
+Counting objects: 7, done.[0K
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (7/7), done.[0K
+Writing objects: 100% (7/7), 1.19 KiB | 405.00 KiB/s, done.[0K
+Total 7 (delta 2), reused 0 (delta 0)[0K
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.[0K
+To https://github.com/lopasy/References.git[0K
+   a4ee95c..5c95744  master -> master[0K
+[0K
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
+[0m$[0K[3G[?25h[?25l[12A[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
+[0m$ git push origin master[0K
+Counting objects: 7, done.[0K
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (7/7), done.[0K
+Writing objects: 100% (7/7), 1.19 KiB | 405.00 KiB/s, done.[0K
+Total 7 (delta 2), reused 0 (delta 0)[0K
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.[0K
+To https://github.com/lopasy/References.git[0K
+   a4ee95c..5c95744  master -> master[0K
+[0K
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
+[0m$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "set-gxe"[0K[?25h[?25l$ git add .[0K[?25h[?25l
 [0K[?25h

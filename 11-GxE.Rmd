@@ -16,6 +16,8 @@
 
 Lin X, Lee S, Christiani DC, Lin X (2013) Test for interactions between a genetic marker set and environment in generalized linear models. Biostatistics 14: 667-81
 
+Lin X, Lee S, Wu MC, Wang C, Chen H, Li Z, Lin X (2016) Test for rare variants by environment interactions in sequencing association studies. Biometrics 72: 156-64
+
 Windle M. (2016) Statistical approaches to gene x environment interactions for complex phenotypes
 
 

@@ -67,3 +67,7 @@ Pasman, J. A., Verweij, K. J. H., Gerring, Z., Stringer, S., Sanchez-Roige, S., 
 
 Huang, C., Thompson, P., Wang, Y., Yu, Y., Zhang, J., Kong, D., . . . Zhu, H. (2017). FGWAS: Functional genome wide association analysis. NeuroImage, 159, 107-121
 
+## Analysis of rare variants
+
+https://conservancy.umn.edu/bitstream/handle/11299/183388/Coombes_umn_0130E_17532.pdf?sequence=1
+

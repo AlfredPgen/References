@@ -247,4 +247,43 @@ To https://github.com/lopasy/References.git[0K
 [0K
 [0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
 [0m$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "set-gxe"[0K[?25h[?25l$ git add .[0K[?25h[?25l
-[0K[?25h
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "set-gxe"[0K[?25h[?25l
+[0K[?25h[master 8e9f17c] set-gxe[0K[?25l
+ 3 files changed, 48 insertions(+), 1 deletion(-)[0K
+ rewrite .Rproj.user/FACE3116/console06/INDEX001 (70%)[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "set-gxe"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 8, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (8/8), done.[0K
+Writing objects: 100% (8/8), 1.13 KiB | 1.13 MiB/s, done.[0K[2G[?25h[?25l
+Total 8 (delta 3), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[0K[?25l
+[0K[?25hTo https://github.com/lopasy/References.git[0K[?25l
+   5c95744..8e9f17c  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l[12A[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
+[0m$ git push origin master[0K
+Counting objects: 8, done.[0K
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (8/8), done.[0K
+Writing objects: 100% (8/8), 1.13 KiB | 1.13 MiB/s, done.[0K
+Total 8 (delta 3), reused 0 (delta 0)[0K
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.[0K
+To https://github.com/lopasy/References.git[0K
+   5c95744..8e9f17c  master -> master[0K
+[0K
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
+[0m$[0K[3G[?25h[0m[0K]0;:/e/Mybooks/References/References[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25herror: open(".Rproj.user/FACE3116/console06/8CE31385"): Permission denied[0K[?25l
+error: unable to index file .Rproj.user/FACE3116/console06/8CE31385[0K
+fatal: updating files failed[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[3G[?25h[12G

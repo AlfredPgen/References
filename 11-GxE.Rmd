@@ -1,5 +1,7 @@
 # Gene-environment interaction
 
+Han SS, Chatterjee N (2018) Review of Statistical Methods for Gene-Environment Interaction Analysis. Current Epidemiology Reports 5: 39-45
+
 ## Single step methods
 
 ### Case-control
@@ -20,13 +22,15 @@ Lin X, Lee S, Wu MC, Wang C, Chen H, Li Z, Lin X (2016) Test for rare variants b
 
 Windle M. (2016) Statistical approaches to gene x environment interactions for complex phenotypes
 
-
-
 ## Combining multiple environments
 
 ## Variance heterogeneity
 
 ### Levene's test
+
+### Generalized Levene's scale tests
+
+Soave D, Sun L (2017) A generalized Levene's scale test for variance heterogeneity in the presence of sample correlation and group uncertainty. Biometrics 73: 960-971
 
 ### Two-step screening on residual variance heterogeneity
 

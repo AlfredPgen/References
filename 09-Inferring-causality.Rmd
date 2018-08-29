@@ -1,0 +1,3 @@
+### Joint analysis of GWAS and eQTL data
+
+Porcu E, Rüeger S, Santoni FA, Reymond A, Kutalik Z (2018) Mendelian Randomization integrating GWAS and eQTL data reveals genetic determinants of complex and clinical traits. bioRxiv

@@ -26,6 +26,8 @@ Windle M. (2016) Statistical approaches to gene x environment interactions for c
 
 ## Variance heterogeneity
 
+https://bmcgenet.biomedcentral.com/articles/10.1186/1471-2156-11-92
+
 ### Levene's test
 
 ### Generalized Levene's scale tests

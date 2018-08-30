@@ -49,3 +49,18 @@ Soave D, Sun L (2017) A generalized Levene's scale test for variance heterogenei
 ### Multidimensionality reduction
 
 ## Meta-analytic GxE approaches
+
+## Other challanges
+
+### Controlling for covariate interactions
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3859520/pdf/nihms532193.pdf
+
+## Candidate gene-by-environment interaction studies
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3859520/pdf/nihms532193.pdf
+
+## Higher order interactions
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3859520/pdf/nihms532193.pdf
+

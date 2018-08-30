@@ -28,6 +28,12 @@ Windle M. (2016) Statistical approaches to gene x environment interactions for c
 
 https://bmcgenet.biomedcentral.com/articles/10.1186/1471-2156-11-92
 
+FTO genotype is associated with phenotypic variability of body mass index
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3659368/
+
+https://academic.oup.com/jxb/article/68/20/5431/4093043
+
 ### Levene's test
 
 ### Generalized Levene's scale tests

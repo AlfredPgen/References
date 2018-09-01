@@ -1,0 +1,7 @@
+## Mixed-model association analysis
+
+https://www.nature.com/articles/s41588-018-0144-6#Sec3
+
+### BOLT-LMM
+
+https://www.nature.com/articles/s41588-018-0144-6#Sec3

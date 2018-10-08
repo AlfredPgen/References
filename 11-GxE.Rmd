@@ -10,6 +10,13 @@ Han SS, Chatterjee N (2018) Review of Statistical Methods for Gene-Environment I
 
 ### Empirical Bayes and Bayesian Model Averaging
 
+### Other Bayesian approaches
+
+#### Interactions using haplotypes
+
+Li J, Zhang K, Yi N (2011) A Bayesian hierarchical model for detecting haplotype-haplotype and haplotype-environment interactions in genetic association studies. Hum Hered 71: 148-60
+
+
 ## Multi stage methods
 
 ## Joint tests

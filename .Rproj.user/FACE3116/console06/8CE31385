@@ -490,4 +490,69 @@ y.[0K
 [0K[?25h[?25l
 [0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[18G[?25l$ git commit -m "P"[0K[19G[?25h[?25l$ git commit -m "PR"[0K[20G[?25h[?25l$ git commit -m "PRS"[0K[21G[?25h[?25l
+[0K[?25h[master 2ab55cf] PRS[0K[?25l
+ 5 files changed, 45 insertions(+), 1 deletion(-)[0K
+ rewrite .Rproj.user/FACE3116/console06/INDEX001 (85%)[0K
+ create mode 100644 05-Genomic-prediction.Rmd[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0K[?25ls[0K[21G[?25h[22G[?25l$ git push origin mast[0K[?25he[0K[?25lr[0K[24G[?25h[25G[?25l
+[0K[?25hCounting objects: 14, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (12/12), done.[0K
+Writing objects: 100% (14/14), 1.51 KiB | 775.00 KiB/s, done.[0K
+Total 14 (delta 6), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (6/6), completed with 6 local objects[0K.[?25l
+[0K
+[0K[?25h[?25lTo https://github.com/lopasy/References.git[0K[1G[?25h[?25l
+   60d3e04..2ab55cf  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l[13A[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
+[0m$ git push origin master[0K
+Counting objects: 14, done.[0K
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (12/12), done.[0K
+Writing objects: 100% (14/14), 1.51 KiB | 775.00 KiB/s, done.[0K
+Total 14 (delta 6), reused 0 (delta 0)[0K
+remote: Resolving deltas: 100% (6/6), completed with 6 local object[0Ks
+.[0K
+To https://github.com/lopasy/References.git[0K
+   60d3e04..2ab55cf  master -> master[0K
+[0K
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
+[0m$[0K[3G[?25h[?25l[13A[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
+[0m$ git push origin master[0K
+Counting objects: 14, done.[0K
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (12/12), done.[0K
+Writing objects: 100% (14/14), 1.51 KiB | 775.00 KiB/s, done.[0K
+Total 14 (delta 6), reused 0 (delta 0)[0K
+remote: Resolving deltas: 100% (6/6), completed with 6 local objects.[0K
+To https://github.com/lopasy/References.git[0K
+   60d3e04..2ab55cf  master -> master[0K
+[0K
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
+[0m$[0K
+[0K[1A[3G[?25h[0m[0K]0;:/e/Mybooks/References/References[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+[?25l[1A[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0K
+[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25lwarning: LF will be replaced by CRLF in .Rproj.user/FACE3116/source[0Ks
+/prop/INDEX.[0K
+The file will have its original line endings in your working direct[0Ko
+ry.[0K[3A[?25h[?25l
+
+
+
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebook[0Ks[?25l
+/paths.[0K
+The file will have its original line endings in your working direct[0Ko
+ry.[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l
 [0K[?25h

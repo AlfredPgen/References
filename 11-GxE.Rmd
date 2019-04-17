@@ -43,6 +43,10 @@ https://academic.oup.com/jxb/article/68/20/5431/4093043
 
 ### Levene's test
 
+### Mean-variance QTL (joint test)
+
+http://www.g3journal.org/content/8/12/3783
+
 ### Generalized Levene's scale tests
 
 Soave D, Sun L (2017) A generalized Levene's scale test for variance heterogeneity in the presence of sample correlation and group uncertainty. Biometrics 73: 960-971

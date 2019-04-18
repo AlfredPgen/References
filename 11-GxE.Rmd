@@ -41,6 +41,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3659368/
 
 https://academic.oup.com/jxb/article/68/20/5431/4093043
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122324/
+
 ### Levene's test
 
 ### Mean-variance QTL (joint test)

@@ -592,4 +592,23 @@ To https://github.com/lopasy/References.git[0K
 [0K[1A[25G[?25h[?25l$ git commit -m "mvQTL"[0K
 [0K[1A[24G[?25h[?25l$ git add .[0K
 [0K[1A[12G[?25h[?25l
-[?25h
+[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K[1G[?25h[?25l
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "mvQTL"[0K[?25h[23G[?25l$ git commit -m "mvQT"[0K[22G[?25h[?25l$ git commit -m "mvQ"[0K[21G[?25h[?25l$ git commit -m "mv"[0K[20G[?25h[?25l$ git commit -m "m"[0K[19G[?25h[?25l$ git commit -m ""[0K[18G[?25h[?25l$ git commit -m "V"[0K[19G[?25h[?25l$ git commit -m "VH"[0K[20G[?25h[?25l
+[0K[?25h[master fa3f753] VH[0K[?25l
+ 3 files changed, 41 insertions(+), 2 deletions(-)[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "VH"[0K[3G[?25h[21G[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "mvQTL"[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 8, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (8/8), done.[0K
+Writing objects: 100% (8/8), 933 bytes | 466.00 KiB/s, done.[0K
+Total 8 (delta 4), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[0K[?25l
+[0K[?25hTo https://github.com/lopasy/References.git[0K[?25l
+   4584f7b..fa3f753  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "VH"[0K[?25h[?25l$ git  "VH"[0K[21G[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h

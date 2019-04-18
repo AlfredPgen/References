@@ -611,4 +611,28 @@ Total 8 (delta 4), reused 0 (delta 0)[0K
 [0K[?25h[?25l
 [0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "VH"[0K[?25h[?25l$ git  "VH"[0K[21G[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "VH"[0K[?25h[?25l
+[0K[?25h[master a6fb1cc] VH[0K[?25l
+ 2 files changed, 22 insertions(+), 1 deletion(-)[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "VH"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 7, done.[0K[?25l
+[0K[?25hDelta compression using up to 8 threads.[0K[?25l
+Compressing objects: 100% (7/7), done.[0K
+Writing objects: 100% (7/7), 826 bytes | 413.00 KiB/s, done.[0K
+Total 7 (delta 3), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[0K[?25l
+[0K[?25hTo https://github.com/lopasy/References.git[0K[?25l
+   fa3f753..a6fb1cc  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "VH"[0K[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0m[0K[1G[?25h[0;32mAlfred@DESKTOP-C3GD8JU [0;35m [0;33m/e/Mybooks/References/References[0;36m (master)[0m[0K[?25l
+$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "VH"[0K[?25h[?25l$ git add .[0K[?25h[?25l
 [0K[?25h

@@ -55,7 +55,15 @@ Soave D, Sun L (2017) A generalized Levene's scale test for variance heterogenei
 
 ### Two-step screening on residual variance heterogeneity
 
-## Conditional quantile regression 
+### Conditional quantile regression 
+
+### Sliced inverse regression
+
+### Semiparametric model for vQTL mapping
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/biom.12612
+
+### Variance heterogeneity for related individuals
 
 ## RELIEF and other machine learning tools
 

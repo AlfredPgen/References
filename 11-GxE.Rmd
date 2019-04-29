@@ -63,6 +63,10 @@ Soave D, Sun L (2017) A generalized Levene's scale test for variance heterogenei
 
 https://onlinelibrary.wiley.com/doi/full/10.1111/biom.12612
 
+### Squared residual value linear modeling (SVLM)
+
+https://bmcgenet.biomedcentral.com/track/pdf/10.1186/1471-2156-13-4
+
 ### Variance heterogeneity for related individuals
 
 ## RELIEF and other machine learning tools
